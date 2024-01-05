@@ -1,5 +1,4 @@
-# DSC520 - Final Project
-## Human Face Detection with Parallel Computing
+# Human Face Detection with Parallel Computing
 
 This repository provides the implementation of a human face detection solution using various parallel computing approaches: OpenMP, MPI, and MPI Broadcast. The problem is addressed using the YOLOv3 model for object detection with the ImageAI library.
 
